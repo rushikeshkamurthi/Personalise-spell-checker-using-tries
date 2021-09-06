@@ -1,0 +1,4 @@
+what you have to do in this file is add some words you can use big paragraphs copy test from anywhere.
+now will provide this file as input to our c-program it will build dictionary based on this words. 
+no can you can run the application.
+
